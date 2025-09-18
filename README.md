@@ -19,3 +19,4 @@ Inspired by the Japanese philosophy of *Ikigai* — "a reason for being" — thi
 - 🧘 **Inspired by Zen & Kaizen Principles**
 
 ---
+Credits - Sharayu Shelke, Piush Gogi, Suhani Maidargikar
